@@ -20,7 +20,7 @@ main {
 aside {
     background-color: rgb(180, 201, 72);
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
     font-family: Georgia;
     color: white;
     border: 2px solid black;
@@ -31,7 +31,7 @@ aside {
 section aside {
     background-color: rgb(180, 201, 72);
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
     font-family: Georgia;
     color: white;
     border: 2px solid black;
@@ -45,11 +45,11 @@ footer {
     margin: 2em;
     padding: 2em;
     background-color: black;
-    border: rgb(143, 135, 46);
+    border: 3px solid rgb(143, 135, 46);
 }
 
 footer section {
-    color: rgb(143, 135, 46);
+    color: rgba(224, 227, 45, 0.726);
 }
 
 header {
@@ -111,6 +111,7 @@ h1 {
 }
 
 h2 {
-    color: black;
+    color: rgba(224, 227, 45, 0.726);
     text-align: center;
+    font-size: 35;
 }
