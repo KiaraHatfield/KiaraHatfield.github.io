@@ -107,11 +107,15 @@ h1 {
 }
 
 h2 {
-    color: rgba(224, 227, 45, 0.726);
+    color: black;
     text-align: center;
     font-size: 35;
 }
 
 h3 {
-    color: rgb(143, 135, 46)
+    color: rgb(143, 135, 46);
+}
+
+p a {
+    color: rgb(143, 135, 46);
 }
