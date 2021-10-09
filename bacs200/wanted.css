@@ -77,7 +77,8 @@ li {
 }
 
 /* ----------------------------------------------- */
-/* Classes */
+/* I Dont know how to make the background for the <main> part 
+go all the way down so oh well */
 
 .loki_photo {
     width: 450px;
@@ -107,13 +108,13 @@ h1 {
 }
 
 h2 {
-    color: black;
+    color: rgb(143, 135, 46);
     text-align: center;
     font-size: 35;
 }
 
 h3 {
-    color: rgb(143, 135, 46);
+    color: black;
 }
 
 p a {
