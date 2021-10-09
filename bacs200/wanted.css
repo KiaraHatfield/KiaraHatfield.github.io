@@ -1,6 +1,10 @@
 * {
     padding: 0px;
     margin: 10px;
+    color: black;
+}
+
+footer * {
     color: rgb(143, 135, 46);
 }
 
