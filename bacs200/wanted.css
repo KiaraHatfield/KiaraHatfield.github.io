@@ -18,7 +18,7 @@ main {
 }
 
 aside {
-    background-color: rgba(224, 227, 45, 0.726);
+    background-color: rgb(143, 135, 46);
     text-align: center;
     font-size: 20px;
     font-family: Georgia;
@@ -29,7 +29,7 @@ aside {
 }
 
 section aside {
-    background-color: rgba(224, 227, 45, 0.726);
+    background-color: rgb(143, 135, 46);
     text-align: center;
     font-size: 20px;
     font-family: Georgia;
@@ -46,10 +46,6 @@ footer {
     padding: 2em;
     background-color: black;
     border: 3px solid rgb(143, 135, 46);
-}
-
-footer section {
-    color: rgba(224, 227, 45, 0.726);
 }
 
 header {
