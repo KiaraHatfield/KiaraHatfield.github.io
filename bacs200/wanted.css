@@ -13,16 +13,28 @@ main {
     border: 3px solid black;
     margin: 2em;
     padding: 1em;
-    background-color:rgb(172, 172, 172);
+    background-color:rgb(143, 135, 46);
+    height: 70%
 }
 
 aside {
-    background-color: rgb(143, 135, 46);
+    background-color: rgb(180, 201, 72);
     text-align: center;
     font-size: 30px;
     font-family: Georgia;
     color: white;
-    border: 2px solid rgb(90, 143, 46);
+    border: 2px solid black;
+    float: right;
+    width: 42%;
+}
+
+section aside {
+    background-color: rgb(180, 201, 72);
+    text-align: center;
+    font-size: 30px;
+    font-family: Georgia;
+    color: white;
+    border: 2px solid black;
     float: right;
     width: 42%;
 }
@@ -49,8 +61,8 @@ header {
 }
 
 header h1 {
-    color: #F6B018;
-    background-color: black;
+    color: black;
+    background-color: rgb(143, 135, 46);
     font-size: 60;
 }
 
