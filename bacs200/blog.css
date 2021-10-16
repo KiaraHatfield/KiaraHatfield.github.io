@@ -5,4 +5,13 @@
 body {
     padding: 0px;
     margin: 0px;
+    font-family: Georgia;
+}
+para Social {
+    padding: 0px;
+    margin: 0px;
+    float: left;
+}
+h3 {
+    font-family: Georgia;
 }
