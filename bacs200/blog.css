@@ -13,7 +13,7 @@ para Social {
 }
 h2 {
     font-family: Georgia;
-    font-size: 35;
+    font-size: 20;
 }
 h3 {
     font-family: Georgia;
@@ -25,4 +25,5 @@ header {
     font-family: Georgia;
     height: 120px;
     padding: 5px;
+    text-align: center;
 }
