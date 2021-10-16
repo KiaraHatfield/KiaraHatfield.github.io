@@ -11,6 +11,14 @@ para Social {
     margin: 5px;
     padding: 10px;
 }
+h2 {
+    font-family: Georgia;
+    font-size: 35;
+}
 h3 {
     font-family: Georgia;
+}
+title {
+    background-color: rgb(195, 227, 121);
+    color: black;
 }
