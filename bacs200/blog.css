@@ -8,9 +8,8 @@ body {
     font-family: Georgia;
 }
 para Social {
-    padding: 0px;
-    margin: 0px;
-    float: left;
+    margin: 5px;
+    padding: 10px;
 }
 h3 {
     font-family: Georgia;
