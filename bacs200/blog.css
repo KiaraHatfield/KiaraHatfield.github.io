@@ -16,10 +16,11 @@ h3 {
 }
 header {
     border: 3px ;
-    background-color: rgb(195, 227, 121);
+    background-color: rgb(249, 211, 88);
     color: black;
     font-family: Georgia;
     height: 120px;
     padding: 5px;
+    margin-bottom: 10px;
     text-align: center;
 }
