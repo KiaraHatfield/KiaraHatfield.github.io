@@ -20,6 +20,9 @@ header, footer {
     margin-bottom: 10px;
     text-align: center;
 }
+body{
+    height: 400px;
+}
 main {
     padding: 0px;
     margin-right: 20px;
