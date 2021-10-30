@@ -38,3 +38,9 @@ div {
     margin: 20px;
     margin-top: 40px;
 }
+.bear-logo {
+    width: 450px;
+    float: right;
+    border-radius: 5px;
+    padding: 0;
+}
