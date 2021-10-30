@@ -3,12 +3,10 @@ body {
     margin: 20px;
     font-family: Georgia;
 }
-h2 {
+h1 {
     font-family: Georgia;
     font-size: 20px;
-}
-h3 {
-    font-family: Georgia;
+    text-align: center;
 }
 header, footer {
     border: 5px rgb(248, 211, 88);
