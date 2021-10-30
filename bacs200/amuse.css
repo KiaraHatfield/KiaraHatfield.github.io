@@ -32,8 +32,12 @@ main {
     margin-left: 20px;
     text-align: center;
     margin-top: 20px;
+    font-family: Georgia;
 }
 footer {
+    border: 5px rgb(248, 211, 88);
+    background-color: rgb(248, 211, 88);
+    font-family: Georgia;
     padding: 0px;
     margin-right: 20px;
     margin-left: 20px;
@@ -42,4 +46,5 @@ footer {
 }
 div {
     margin: 20px;
+    margin-top: 40px;
 }
