@@ -40,5 +40,6 @@ div {
 }
 .bearlogo {
     float: right;
+    text-align: right;
     width: 42%;
 }
