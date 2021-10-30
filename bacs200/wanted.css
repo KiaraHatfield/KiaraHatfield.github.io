@@ -57,13 +57,13 @@ header {
     background-color: black;
     font-family: Georgia;
     height: 120px;
-    padding: 0;
+    padding: 0px;
 }
 
 header h1 {
     color: black;
     background-color: rgb(143, 135, 46);
-    font-size: 60;
+    font-size: 60px;
 }
 
 header * {
@@ -108,13 +108,13 @@ h1 {
     color: black;
     text-align: center;
     background-color: rgb(143, 135, 46);
-    font-size: 40;
+    font-size: 40px;
 }
 
 h2 {
     color: rgb(143, 135, 46);
     text-align: center;
-    font-size: 35;
+    font-size: 35px;
 }
 
 h3 {
